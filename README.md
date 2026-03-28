@@ -24,7 +24,7 @@ Stuck in a maze plunged into darkness, the player is driven by curiosity and the
 The game was developed exclusively for mobile (Android) using the **Unity** game engine. 
 * It utilizes the **Universal Render Pipeline (URP)** to optimize 3D rendering and ensure device compatibility. 
 * The visual identity focuses on an obscure 3D environment, playing with depth of field and pitch-black darkness to evoke fear of the unknown rather than relying on jumpscares.
-Click here to see the [Noctebris - Design Book](docs/Noctebris - Design Book.pdf)
+Click here to see the [Noctebris - Design Book](Noctebris - Design Book.pdf)
 
 ## ⚙️ Controls
 

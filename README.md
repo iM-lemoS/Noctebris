@@ -37,7 +37,7 @@ Go to "docs" to see the Noctebris Design book.
 
 ## 🚀 YOU CAN PLAY THE DEMO
 
-1. Download the Android build here: [DEMO](https://drive.google.com/file/d/1aIS7SafOo1aHi5ooXDYDItzcdbXoGiEe/view?usp=sharing)
+* Download the Android build here: [DEMO](https://drive.google.com/file/d/1aIS7SafOo1aHi5ooXDYDItzcdbXoGiEe/view?usp=sharing)
 
 ## 📸 Visual Demonstration
 
